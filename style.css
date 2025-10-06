@@ -1,3 +1,6 @@
+header {
+    text-align: center; /* This centers the text horizontally */
+}
 body {
   background-color: lightblue;
 }
